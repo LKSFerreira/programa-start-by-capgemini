@@ -1,0 +1,63 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Exercicios20",
+            "request": "launch",
+            "mainClass": "Exercicios20",
+            "projectName": "IntroducaoJava_8f1e750e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicios",
+            "request": "launch",
+            "mainClass": "Exercicios",
+            "projectName": "IntroducaoJava_8f1e750e"
+        },
+        {
+            "type": "java",
+            "name": "Launch EstruturaWhile",
+            "request": "launch",
+            "mainClass": "EstruturaWhile",
+            "projectName": "IntroducaoJava_8f1e750e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio",
+            "request": "launch",
+            "mainClass": "Exercicio",
+            "projectName": "IntroducaoJava_8f1e750e"
+        },
+        {
+            "type": "java",
+            "name": "Launch EstruturaFor",
+            "request": "launch",
+            "mainClass": "EstruturaFor",
+            "projectName": "IntroducaoJava_8f1e750e"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicio15",
+            "request": "launch",
+            "mainClass": "exercicio15",
+            "projectName": "IntroducaoJava_8f1e750e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "IntroducaoJava_8f1e750e"
+        }
+    ]
+}
